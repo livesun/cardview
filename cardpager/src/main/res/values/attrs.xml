@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="IndicatorView">
+        <attr name="indicator_radius" format="dimension"/>
+        <attr name="indicator_defaultColor" format="color"/>
+        <attr name="indicator_selectColor" format="color"/>
+        <attr name="indicator_pading" format="dimension"/>
+        <attr name="indicator_count" format="integer"/>
+    </declare-styleable>
+</resources>
